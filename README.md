@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Quang Thang
 - 👀 I’m interested in code
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me link facebook https://www.facebook.com/quangnguyen.thang.900/
 
